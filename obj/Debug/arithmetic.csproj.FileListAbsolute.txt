@@ -1,0 +1,7 @@
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\bin\Debug\arithmetic.exe.config
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\bin\Debug\arithmetic.exe
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\bin\Debug\arithmetic.pdb
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\obj\Debug\arithmetic.csprojAssemblyReference.cache
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\obj\Debug\arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+C:\Users\nEW u\Desktop\New folder\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
